@@ -50,8 +50,8 @@ class MainActivity : ComponentActivity() {
     @Composable
     fun Personaje() {
         Column {
-            Text("Nombre: Goku")
-            Text("Descripcion: El protagonista de la serie, conocido por su gran poder y personalidad amigable. Originalmente enviado a la Tierra como un infante volador con la misión de conquistarla.")
+            Text("Nombre: Celula")
+            Text("Descripcion: Es un bioandroide")
         }
     }
 
